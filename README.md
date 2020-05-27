@@ -19,8 +19,6 @@ Flutter Dependencies:
     
   bloc: ^0.8.0
   flutter_bloc: ^0.5.0
-  meta: ^1.1.6
-  equatable: ^0.1.6
   flutter_local_notifications: ^1.4.3
   firebase_messaging: ^5.1.4
   get_it: ^1.0.3
